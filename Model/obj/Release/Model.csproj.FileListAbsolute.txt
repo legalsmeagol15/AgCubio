@@ -1,0 +1,7 @@
+C:\Users\Wesley\Documents\School\COMPUTER SCIENCE\CS 3500 Software practice\BlackBoxers\AgCubio\Model\bin\Release\Model.dll
+C:\Users\Wesley\Documents\School\COMPUTER SCIENCE\CS 3500 Software practice\BlackBoxers\AgCubio\Model\bin\Release\Model.pdb
+C:\Users\Wesley\Documents\School\COMPUTER SCIENCE\CS 3500 Software practice\BlackBoxers\AgCubio\Model\bin\Release\Newtonsoft.Json.dll
+C:\Users\Wesley\Documents\School\COMPUTER SCIENCE\CS 3500 Software practice\BlackBoxers\AgCubio\Model\bin\Release\Newtonsoft.Json.xml
+C:\Users\Wesley\Documents\School\COMPUTER SCIENCE\CS 3500 Software practice\BlackBoxers\AgCubio\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+C:\Users\Wesley\Documents\School\COMPUTER SCIENCE\CS 3500 Software practice\BlackBoxers\AgCubio\Model\obj\Release\Model.dll
+C:\Users\Wesley\Documents\School\COMPUTER SCIENCE\CS 3500 Software practice\BlackBoxers\AgCubio\Model\obj\Release\Model.pdb

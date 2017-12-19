@@ -1,0 +1,63 @@
+#Blackboxers AgCubio Server version Final Configuration File
+#Comment lines start with a # (pound sign)
+#Lines must have a property in quotation marks, followed by a colon, followed
+by the value, followed by a comma. Newlines are optional.
+
+#Integer. The height of the world.
+{"Height":1000,
+
+#Integer. The width of the world
+"Width":1000,
+
+#Integer. The maximum number of viruses allowed on the world
+"MaxVirusCount":20,
+
+#Integer. If there are no viruses in the world, this number will be added.
+#Otherwise, this will be multiplied with the ratio of Viruses / MaxVirusCount
+#to determine how many will be added
+"NewVirusPerBeat":2,
+
+#Double. The number of seconds after being split before players are allowed to
+#merge
+"NoMergeSeconds":10.0,
+
+#Double. A variable which controls how strongly players on the same team repel
+#each other
+"TeamRepulsionStrength":3.0,
+
+#Double. The mass of a new player.
+"PlayerStartMass":500.0,
+
+#Double. The mass at which a player stops decaying due to atrophy
+"PlayerMinimumAtrophy":200.0,
+
+#Double. The mass a player loses every heartbeat
+"PlayerAtrophyRate":0.0001,
+
+#Double. Amount of the player's area which has to be covered in order to be
+#considered eaten.
+"PlayerEatenRatio":0.5,
+
+#Integer. Speed at which a player of PlayerStartMass will move per heartbeat.
+#Otherwise, the speed is determined as a ratio of current mass and starting
+#mass.
+"PlayerSpeed":2,
+
+#Integer. If there is no food on the field, this much food will be added.
+#Otherwise, food will be added as this times food / MaxFoodCount
+"NewFoodPerBeat":10,
+
+#Integer. The maximum amount of food present on the field
+"MaxFoodCount":5000,
+
+#Integer. The maximum number of split cubes the player can generate by 
+#himself
+"MaxSplits":10,
+
+#Double. The Mass under which a player will no longer be allowed to split
+#himself
+"MinimumSplitMass":100.0,
+
+#TimeSpan (hours:minutes:seconds.miliseconds) The shortest length of time
+#between server game loop iterations
+"Heartbeat":"00:00:00.0500000"}

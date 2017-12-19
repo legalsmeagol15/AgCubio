@@ -1,0 +1,15 @@
+C:\Users\Wesley\Documents\School\COMPUTER SCIENCE\CS 3500 Software practice\BlackBoxers\AgCubio\Server\bin\Release\Server.exe.config
+C:\Users\Wesley\Documents\School\COMPUTER SCIENCE\CS 3500 Software practice\BlackBoxers\AgCubio\Server\bin\Release\Server.exe
+C:\Users\Wesley\Documents\School\COMPUTER SCIENCE\CS 3500 Software practice\BlackBoxers\AgCubio\Server\bin\Release\Server.pdb
+C:\Users\Wesley\Documents\School\COMPUTER SCIENCE\CS 3500 Software practice\BlackBoxers\AgCubio\Server\bin\Release\Model.dll
+C:\Users\Wesley\Documents\School\COMPUTER SCIENCE\CS 3500 Software practice\BlackBoxers\AgCubio\Server\bin\Release\MySql.Data.dll
+C:\Users\Wesley\Documents\School\COMPUTER SCIENCE\CS 3500 Software practice\BlackBoxers\AgCubio\Server\bin\Release\Network_Controller.dll
+C:\Users\Wesley\Documents\School\COMPUTER SCIENCE\CS 3500 Software practice\BlackBoxers\AgCubio\Server\bin\Release\Newtonsoft.Json.dll
+C:\Users\Wesley\Documents\School\COMPUTER SCIENCE\CS 3500 Software practice\BlackBoxers\AgCubio\Server\bin\Release\View.exe
+C:\Users\Wesley\Documents\School\COMPUTER SCIENCE\CS 3500 Software practice\BlackBoxers\AgCubio\Server\bin\Release\Model.pdb
+C:\Users\Wesley\Documents\School\COMPUTER SCIENCE\CS 3500 Software practice\BlackBoxers\AgCubio\Server\bin\Release\Network_Controller.pdb
+C:\Users\Wesley\Documents\School\COMPUTER SCIENCE\CS 3500 Software practice\BlackBoxers\AgCubio\Server\bin\Release\View.pdb
+C:\Users\Wesley\Documents\School\COMPUTER SCIENCE\CS 3500 Software practice\BlackBoxers\AgCubio\Server\bin\Release\Newtonsoft.Json.xml
+C:\Users\Wesley\Documents\School\COMPUTER SCIENCE\CS 3500 Software practice\BlackBoxers\AgCubio\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\Wesley\Documents\School\COMPUTER SCIENCE\CS 3500 Software practice\BlackBoxers\AgCubio\Server\obj\Release\Server.exe
+C:\Users\Wesley\Documents\School\COMPUTER SCIENCE\CS 3500 Software practice\BlackBoxers\AgCubio\Server\obj\Release\Server.pdb

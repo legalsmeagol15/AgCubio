@@ -1,0 +1,44 @@
+﻿<Window x:Class="View.StatsBoard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:View"
+        mc:Ignorable="d"
+        Title="AgCubio" Height="300" Width="300" Background="LightYellow" WindowStartupLocation="CenterOwner">
+    <StackPanel >
+        <Label Content="Play Statistics" FontSize="16" HorizontalContentAlignment="Center" />
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Player:" Width="130" HorizontalContentAlignment="Right"/>
+            <Label Content="{Binding PlayerName}" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Start Time:" Width="130" HorizontalContentAlignment="Right"/>
+            <Label Content="{Binding StartTime}" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="End Time:" Width="130" HorizontalContentAlignment="Right"/>
+            <Label Content="{Binding EndTime}" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Time Played:" Width="130" HorizontalContentAlignment="Right"/>
+            <Label Content="{Binding TimePlayed}" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Food Eaten:" Width="130" HorizontalContentAlignment="Right"/>
+            <Label Content="{Binding FoodEaten}" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Maximum Mass:" Width="130" HorizontalContentAlignment="Right"/>
+            <Label Content="{Binding MaximumMass}" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Players eaten:" Width="130" HorizontalContentAlignment="Right"/>
+            <Label Content="{Binding PlayersEaten.Count}" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Eaten by:" Width="130" HorizontalContentAlignment="Right"/>
+            <Label Content="{Binding EatenBy}" />
+        </StackPanel>
+    </StackPanel>
+</Window>
